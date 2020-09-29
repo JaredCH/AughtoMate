@@ -10,7 +10,7 @@
 ;SetTimer, RuneLiteStatus, 250    ;-fix this code
 toggle  := 0
 return
- 
+  
 
 
 
