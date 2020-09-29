@@ -12,4 +12,4 @@ git config --global user.email johndoe@example.com
 
 
 
-Keep Functions to categorized scripts procedures named appropriately with a prepended _
+Keep Functions to categorized scripts & procedures named appropriately with a prepended _
