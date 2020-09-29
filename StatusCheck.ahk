@@ -17,7 +17,7 @@ ifWinNotActive, RuneLite
 		SetTimer, HealthStatus, Off
 		SetTimer, PrayerStatus, Off
 }
-
+ 
 return
 
 CombatStatus:

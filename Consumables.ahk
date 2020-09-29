@@ -4,7 +4,7 @@ Msgbox, Please mouse over the food in your inventory and press F1 to save the co
 foodlabelid=1
 foodyco=50
 return
-
+ 
 F1::
 if(listoffood.MaxIndex() >= 3 )
 {

@@ -20,7 +20,7 @@ Gui, Add, Text, x262 y259 w190 h20 veatlabel, Eating OFF ;done
 Gui, Add, Text, x262 y289 w200 h20 vantbanlabel, AntiBan Status: Idle ; in progress
 Gui, Show, w479 h379, AughtoMate
 
-
+ 
 WinGetPos, RSWINX1, RSWINY1, RSWINX2, RSWINY2, RuneLite
 
 GuiControl,Disable, setcolors

@@ -16,7 +16,7 @@ CbtDead=
 100hpy2=240
 hpdiff=25
 hpcolor=0x112584
-
+ 
 ;Prayer Check---
 100px1=744
 100py2=237

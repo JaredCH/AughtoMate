@@ -32,7 +32,7 @@ if (toggle := !toggle) {
 	GuiControl,,beginbuttonlabel, Start
 }
 return
-
+ 
 Isyoueating:
 Gui, submit, NoHide
 If (eatoptionLogout=1) 

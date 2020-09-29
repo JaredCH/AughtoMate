@@ -46,7 +46,7 @@ if (antban=1)
 				;~ GuiControl,,antbanlabel, Idle, - Last task - Skills Tab
 				;~ SetTimer, FoodStatus, 1000
 				;~ sleep, 5000
-			;~ }
+			;~ } 
 	
 			;~ ;click skills tab / mouse over A S or D
 	
