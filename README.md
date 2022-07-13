@@ -1,4 +1,4 @@
-# AughtoMate
+# AughtoMate - Runescape Color Bot
 
 Download Visual Studio Code, which is different from Visual Studio, then get the following extensions
 AutoHotkey
